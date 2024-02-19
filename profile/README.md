@@ -1,6 +1,6 @@
 # Happy Python
 
-![Happy Python Logo][https://sun25-1.userapi.com/s/v1/ig2/vaqED0WcXo2Ezi26gdsqzDEZtSvkVIFD3DHK-GUc8WNeBzOefklwIzHY_HeuKatLn36_FqfbCvyfp2pofoWLoHDV.jpg?size=100x100&quality=95&crop=165,149,401,401&ava=1]**Happy Python** - команда разработчиков Python, специализирующаяся на создании мощных и эффективных парсеров с использованием Python. Мы увлечены парсингом данных и верим в важность автоматизации процессов извлечения данных.
+**Happy Python** - команда разработчиков Python, специализирующаяся на создании мощных и эффективных парсеров с использованием Python. Мы увлечены парсингом данных и верим в важность автоматизации процессов извлечения данных.
 
 ## О нас
 
@@ -58,7 +58,8 @@
 
 - Веб-сайт: [happypython.ru](https://happypython.ru)
 - Email: info@happypython.ru
-- Telegram: [@happypython](https://t.me/happypython)
+- Telegram: [@happypython](https://t.me/happypython_team)
+- VK: [Happy Python VK](https://vk.com/happython)
 
 Мы ценим ваше мнение и будем рады услышать от вас!
 
@@ -66,4 +67,4 @@
 
 Этот репозиторий лицензируется под [лицензией MIT](LICENSE).
 
-[Happy Python Logo]: <insert_logo_image_url> "Happy Python"
+[Happy Python Logo]: <> "Happy Python"
