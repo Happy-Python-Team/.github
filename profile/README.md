@@ -29,7 +29,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/happypython/repo.git
+   git clone https://github.com/happypython/projects.git
    ```
 
 2. Установите необходимые зависимости:
