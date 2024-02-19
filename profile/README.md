@@ -1,6 +1,6 @@
 # Happy Python
 
-![Happy Python Logo][]**Happy Python** - команда разработчиков Python, специализирующаяся на создании мощных и эффективных парсеров с использованием Python. Мы увлечены парсингом данных и верим в важность автоматизации процессов извлечения данных.
+![Happy Python Logo][https://sun25-1.userapi.com/s/v1/ig2/vaqED0WcXo2Ezi26gdsqzDEZtSvkVIFD3DHK-GUc8WNeBzOefklwIzHY_HeuKatLn36_FqfbCvyfp2pofoWLoHDV.jpg?size=100x100&quality=95&crop=165,149,401,401&ava=1]**Happy Python** - команда разработчиков Python, специализирующаяся на создании мощных и эффективных парсеров с использованием Python. Мы увлечены парсингом данных и верим в важность автоматизации процессов извлечения данных.
 
 ## О нас
 
